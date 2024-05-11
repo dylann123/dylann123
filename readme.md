@@ -12,6 +12,4 @@ Not allowing `node_modules (6.3 GB)` to hold me back.
 
 # Currently...
 
-* Building a momentum based platformer in `Java`
-* Analyzing patterns in visual eye disease in `PyTorch`
-* Sleeping on the job in `Class 🤧`
+* Sleeping in `Class 🤧`
