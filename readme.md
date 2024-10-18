@@ -1,6 +1,6 @@
 # Hi, Dylan here! 👋
 Aspiring and overstimulated backend webdev. 
-Not allowing `node_modules (6.3 GB)` to hold me back.
+Not allowing `node_modules (14.2 TB)` to hold me back.
 
 # Skillset
 
@@ -12,4 +12,4 @@ Not allowing `node_modules (6.3 GB)` to hold me back.
 
 # Currently...
 
-* Sleeping in `Class 🤧`
+* Writing userauth in TypeScript :(
