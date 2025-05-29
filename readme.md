@@ -12,4 +12,4 @@ Not allowing `node_modules (14.2 TB)` to hold me back.
 
 # Currently...
 
-* Writing userauth in TypeScript :(
+* thinking
