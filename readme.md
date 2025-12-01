@@ -1,6 +1,5 @@
 # Hi, Dylan here! 👋
-Aspiring and overstimulated backend webdev. 
-Not allowing `node_modules (14.2 TB)` to hold me back.
+Need more coffee please
 
 # Skillset
 
@@ -12,4 +11,5 @@ Not allowing `node_modules (14.2 TB)` to hold me back.
 
 # Currently...
 
-* thinking
+* playing around with RAG workflows
+* cowering in fear from Gemini 3.0
