@@ -2,5 +2,4 @@
 Coffee on tap enthusiast
 
 ## I am currently...
-* a full-time backend developer
 * a larp
